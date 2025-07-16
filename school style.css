@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: rgb(232, 226, 226);
+  color: rgb(80, 80, 125);
+  text-align: left aligned;
+}
+
+header {
+  background-color:rgb(166, 166, 171);
+  color: white;
+  text-align: center;
+  padding: 50px;
+  cursor:pointer;
+}
+
+nav {
+  background-color: rgb(195, 126, 126);
+  text-align: center;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 24px;
+  font-weight: bold;
+}
+
+section {
+  padding: 10px;
+  margin: 100px;
+  max-width: 600px;
+  background-color:white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+footer {
+  text-align: center;
+  padding: 50px;
+  background-color:rgb(57, 57, 161);
+  color: white;
+}
